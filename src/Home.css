@@ -1,0 +1,9 @@
+.Home {
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    color: black;
+    text-align: center;
+}
